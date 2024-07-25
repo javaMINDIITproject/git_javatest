@@ -1,0 +1,10 @@
+package shopping;
+
+public class new2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
