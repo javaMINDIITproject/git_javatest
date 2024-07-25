@@ -6,6 +6,7 @@ public class test {
 		String mid = "¿ÀÁ¡¹¹";
 		int b=10;
 		int c = 20;
+		int d = 30;
 		System.out.println(mid);
 	}
 
