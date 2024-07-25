@@ -1,10 +1,10 @@
 package shopping;
 
-public class test_seeun1 {
+public class mindiitmindiit {
 
 	public static void main(String[] args) {
-		System.out.println("seeeun");
-		
+		System.out.println("어디로든 문");
+
 	}
 
 }
